@@ -1,0 +1,13 @@
+com\xem\qa\pages\HomePage.class
+com\xem\qa\pages\DataAttributesPage.class
+com\xem\qa\pages\DiscoveryPage.class
+com\xem\qa\extentReportListener\ExtentReport.class
+com\xem\qa\extentReportListener\ExtentReportListner.class
+com\xem\qa\pages\LoginPage.class
+com\xem\qa\util\TestUtil.class
+com\xem\qa\base\TestBase.class
+com\xem\qa\pages\ActionPage.class
+com\xem\qa\pages\SearchPage.class
+com\xem\qa\pages\NewDataSourcePage.class
+com\xem\qa\util\Log4jUtil.class
+com\xem\qa\pages\DataStrategyPage.class

@@ -1,0 +1,5 @@
+com\xem\qa\testcases\NewDataSourceTest.class
+com\xem\qa\testcases\dataAttributesTest.class
+com\xem\qa\testcases\LoginPageTest.class
+com\xem\qa\testcases\IngestClassAndSubclassTest.class
+com\xem\qa\testcases\HomePageTest.class
